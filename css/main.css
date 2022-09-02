@@ -81,6 +81,7 @@ main, .content {
     width: 100%;
     float: left;
     position: relative;
+    
 }
 button.slick-prev {
     font-size: 0px;
@@ -296,3 +297,6 @@ h3 {
     justify-content: center;
     margin: 0 auto;
   }
+  .rounded-img img {
+    width: 70px;
+ }
