@@ -22,7 +22,7 @@ main, .content {
 .logo {
     float: left;
     padding: 16px;
-    width: 70%;
+    width: 70%;   
 }
 .redes-sociais ul li {
     margin-left: 25px;
@@ -47,7 +47,7 @@ main, .content {
     display: inline-block;
     color: #8b8b8b;
     margin-left: 15px;
-    height: 50px;
+    height: 46px;
 } 
 .menu ul li:hover {
     border-bottom: 3px solid #00bac6;
@@ -57,10 +57,6 @@ main, .content {
     text-decoration: none;
     font-size: 18px;
     text-transform: uppercase;
-}
-.menu ul li a:hover {
-    color: #00bac6;
-    
 }
 .menu {
     width: 70%;
