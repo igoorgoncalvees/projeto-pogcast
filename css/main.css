@@ -271,19 +271,17 @@ h3 {
     color: #c1c1c1;       
 }
 .footer-2 p {    
-    width: 40%;
+    width: 45%;
     float: left;
 }
 .redes-sociais-2 {  
     float: right;
     width: 30%;
-    margin-right: 22%;   
-          
+    margin-right: 22%;             
 }
 
 .redes-sociais-2 ul li {
     margin-left: 25px;       
     list-style: none;
-    float: right;
-    
+    float: right;    
 }
