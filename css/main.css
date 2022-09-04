@@ -162,17 +162,20 @@ li.slick-active button{
 }
 .bloco-imagem img {
     margin: 0 auto;
-    width: 100%;
-    height: auto;
+    margin-left: -15px;
+    width: 325px;
+    height: 200px;
+    border-radius: 5% 5% 0 0;
 }
 .bloco-imagem {
-    height: 300px;
-    border: 1px solid #c5c5c5;
-    padding-top: 15px;
+    height: 450px;
+    border: 1px solid #c5c5c5;    
     padding-bottom: 15px;
     margin-left: 10px;
+    border-radius: 5%;
+    background-color: white
 }
-.bloco-imagem b p {
+.bloco-imagem p {
     text-align: left;
 }
 .bloco-texto {    
